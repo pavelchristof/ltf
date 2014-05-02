@@ -1,0 +1,14 @@
+<task>
+    Ala ma <gap img="cat.png">kota</gap>.
+    <extra>psa</extra>
+    <extra>pingwina</extra>
+</task>
+
+<task>
+    Buffalo buffalo <gap>Buffalo</gap> buffalo <gap>buffalo</gap> 
+    <gap>buffalo</gap> Buffalo buffalo.
+    <extra>BuFFaLo</extra>
+    <extra>Buffalo</extra>
+    <extra>BUFFALO</extra>
+</task>
+
